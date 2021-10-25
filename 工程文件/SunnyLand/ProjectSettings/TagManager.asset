@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Items
+  - EnemyOpossum
+  - EnemyEagle
+  - Door_1
+  - Gem
+  - Cherry
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Background
+  - Water
+  - UI
+  - Ground
+  - Ladder
+  - OneWayPlatform
+  - Items
+  - Enemy
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 3976033879
+    locked: 0
+  - name: Ground
+    uniqueID: 3356317483
+    locked: 0
+  - name: Ladder
+    uniqueID: 1471272299
+    locked: 0
+  - name: OneWayPlatform
+    uniqueID: 566282065
+    locked: 0
+  - name: Items
+    uniqueID: 3630292413
+    locked: 0
+  - name: Enemy
+    uniqueID: 2628573449
+    locked: 0
+  - name: Player
+    uniqueID: 652318809
+    locked: 0
